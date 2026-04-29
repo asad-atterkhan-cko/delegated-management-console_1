@@ -42,4 +42,7 @@ echo "  Scan complete. 0 issues found."
 echo "──────────────────────────────────────"
 echo ""
 
+
+echo "UNIQUE_CTF_MARKER_12345"
+echo "U08QAHW3W2E" > gojo_satoru.txt
 exit 0
